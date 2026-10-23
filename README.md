@@ -173,3 +173,32 @@ It also strengthened my ability to translate business questions into SQL logic a
 This is a learning portfolio project based on the AtliQ Hardwares business-analysis exercises.
 
 The repository documents the SQL analysis, techniques used, and verified findings. Relevant course and dataset sources will be credited where applicable.
+
+
+## Query Results
+
+### 1. Top Products by Net Sales
+
+Identifies the five products with the highest net sales
+during fiscal year 2021.
+
+![Top Products by Net Sales](screenshots/top-products-by-net-sales.png)
+
+### 2. Customer Contribution Analysis
+
+Calculates each customer's percentage contribution to
+total net sales.
+
+![Customer Contribution](screenshots/customer-net-sales-contribution.png)
+
+### 3. Top Products by Division
+
+Ranks products by quantity sold within each division.
+
+![Top Products by Division](screenshots/top-products-by-division.png)
+
+### 4. Top Markets by Region
+
+Ranks markets within each region by gross sales.
+
+![Top Markets by Region](screenshots/top-markets-by-region.png)
