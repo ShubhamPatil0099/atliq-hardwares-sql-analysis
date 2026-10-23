@@ -182,7 +182,7 @@ The repository documents the SQL analysis, techniques used, and verified finding
 Identifies the five products with the highest net sales
 during fiscal year 2021.
 
-![Top Products by Net Sales](screenshots/top-products-by-net-sales.png)
+top-market-over-region-by-net_sales.png
 
 ### 2. Customer Contribution Analysis
 
