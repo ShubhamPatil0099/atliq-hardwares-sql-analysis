@@ -1,5 +1,3 @@
-# atliq-hardwares-sql-analysis
-
 # AtliQ Hardwares — Sales and Financial Data Analysis Using SQL
 
 ## Project Overview
@@ -175,6 +173,8 @@ This is a learning portfolio project based on the AtliQ Hardwares business-analy
 The repository documents the SQL analysis, techniques used, and verified findings. Relevant course and dataset sources will be credited where applicable.
 
 
+
+
 ## Query Results
 
 ### 1. Top Products by Net Sales
@@ -182,23 +182,28 @@ The repository documents the SQL analysis, techniques used, and verified finding
 Identifies the five products with the highest net sales
 during fiscal year 2021.
 
-top-market-over-region-by-net_sales.png
+<img width="1542" height="802" alt="Screenshot 2026-10-23 141821" src="https://github.com/user-attachments/assets/bd826b5c-5bf9-42f4-a651-f4d45622b381" />
+
 
 ### 2. Customer Contribution Analysis
 
 Calculates each customer's percentage contribution to
 total net sales.
 
-![Customer Contribution](screenshots/customer-net-sales-contribution.png)
+
+<img width="1617" height="857" alt="Screenshot 2026-10-21 173045" src="https://github.com/user-attachments/assets/e4527b91-319f-46b8-ab01-5e1897e8f321" />
+
 
 ### 3. Top Products by Division
 
+
 Ranks products by quantity sold within each division.
 
-![Top Products by Division](screenshots/top-products-by-division.png)
+<img width="1616" height="863" alt="Screenshot 2026-10-21 173128" src="https://github.com/user-attachments/assets/3d53e1cc-d030-4527-b808-a06da7100754" />
+
 
 ### 4. Top Markets by Region
 
 Ranks markets within each region by gross sales.
 
-![Top Markets by Region](screenshots/top-markets-by-region.png)
+<img width="1619" height="844" alt="Screenshot 2026-10-21 173219" src="https://github.com/user-attachments/assets/f068b838-cccd-44d5-83b5-a51fc0ef6b18" />
